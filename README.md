@@ -50,8 +50,8 @@ This is an app that allows Rangers to track wildlife sightings in a certain area
   terminal. Alternatively, run the program in your IDE.
   
  ## Support  and Contacts
- Peter Kingori Ndegwa. <br/> If you run into any issues or would like to make a contribution to the
-  work kindly email me at kpndegwa@gmail.com
+ Einstein Eliam Murithi. <br/> If you run into any issues or would like to make a contribution to the
+  work kindly email me at einsteineliam@gmail.com
  
  ## License
  This project is free to use under the **GNU General Public License**. See the full [LICENSE](https://choosealicense.com/licenses/gpl-3.0/) for details.
